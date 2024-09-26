@@ -1,0 +1,16 @@
+body {
+  background-color: #101310;
+}
+
+div {
+  line-height: 1.5;
+  margin-left: 30px;
+  font-family: monospace;
+  font-size: 30px;
+  color: #AAA;
+  text-shadow: 1px 0px 20px #0F0;
+}
+
+a {
+  color: #AAC;
+}
